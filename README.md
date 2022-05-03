@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Systems Engineering at the Pontificia Universidad Javeriana.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I play some League of Legends to de-stress me (Yes, incredible, but it works for me).\
+🌱 &nbsp;I'm on track for learning more about Web Developing, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I play some League of Legends to de-stress me (Yes, incredible, but it works for me). I also do some video editing in Premiere\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at oscarandrespacheco@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://mega.nz/file/3Vgi0Iaa#egbaKKmKMomRipdMc91Xv_7OTp5yED48CasaQUCfuCI) for more details about me. I'm open to feedback and suggestions!
@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;\
-
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -48,6 +47,8 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;\
 -->
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">

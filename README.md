@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/oscarant">
-  <img height="180em" src="https://github-readme-stats-gray-two-17.vercel.app/api?username=oscarant&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=contribs,issues,stars&show=reviews"/>
+  <img height="180em" src="https://github-readme-stats-m375zn8xm-oscarant.vercel.app/api?username=oscarant&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=contribs,issues,stars&show=reviews"/>
   <img height="180em" src="https://github-readme-stats-gray-two-17.vercel.app/api/top-langs/?username=oscarant&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>

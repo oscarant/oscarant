@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 * 📍 Where do I live? Helsinki, Suomi 🇫🇮.
 * 🏠 Where am I from? Barranquilla, Colombia 🇨🇴 (Fun fact: go from living at 40°C☀️ to -10°C❄️)
 * 🎓 What I studied and where? Systems Engineering at the Pontificia Universidad Javeriana in Bogotá, Colombia 👨🏻‍💻
-* 👨 How old am I? 23yo (if I haven't forgotten to update this 😴)
+* 👨 How old am I? 24yo (if I haven't forgotten to update this 😴)
 * 🤸‍♂️ What do I do to not starve myself: Backend Software Engineer 
 * 💼 Where do I work? Wolt or /bəʊlt/ as they say it
 

@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 <!--* 💼  -->
 
 ### Cool info (or so what should be the cool info)
-* 💡 &nbsp;I like history and develop software solutions to make my life easier 😎 
+* 💡 &nbsp;I like history and develop software solutions to make my life easier 😎 (Yes, I have an automated home)
 * 💀 I'm trying SO HARD to use more emojis in my daily life, as well as GIF and stickers. So my apologies if this page is emoji everload 🫠
-* 🌱 &nbsp;I'm on track for learning more about Backend Developing, and hopefully some day (Don't even know yet ☕️) learn front-end stuff
-* ✍️ &nbsp;In my free time, I play some League of Legends to de-stress me (Yes, incredible, but it works for me 🙂). I also do some video editing in Premiere whem I'm feeling creative 🚂
+* 🌱 &nbsp;I'm on track for learning more about Full Stack Development, specially extending my Backend stack and learning front-end stuff
+* ✍️ &nbsp;In my free time, I like to play videogames, specially City Builders such as Cities Skylines. I also do some video editing in Premiere when I'm feeling creative 🚂
 * 💬 &nbsp;Feel free to reach out to me for a cool unsual conversation, or just for some interesting discussion 😊
 * ⚡ Fun fact:&nbsp; I like aeronautics and airplanes enough to not get bored and find it interesting, but not enough to dedicate myself to it. Someday I aspire to be an RC aircraft pilot ✈️
 * ✉️ &nbsp;You can shoot me an email at oscarandrespacheco@gmail.com! I'll try to respond as soon as I can 📌
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <!-- 
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;\
--->
+
 
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -65,6 +65,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-oscarant.vercel.app/api/top-langs/?username=oscarant&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+-->
 
 ## 🤝🏻 &nbsp;Connect with Me
 

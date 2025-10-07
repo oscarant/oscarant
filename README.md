@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 ## 👨🏻‍💻 &nbsp;About Me
 ### General/Daily/Boring info
-* 📍 Where do I live? Helsinki, Suomi 🇫🇮.
-* 🏠 Where am I from? Barranquilla, Colombia 🇨🇴 (Fun fact: go from living at 40°C☀️ to -10°C❄️)
+* 📍 Where do I live? Bogotá, Colombia.
+* 🏠 Where am I from? Barranquilla, Colombia 🇨🇴 (Fun fact: I went from living at 40°C☀️ to -10°C❄️ in Finland)
 * 🎓 What I studied and where? Systems Engineering at the Pontificia Universidad Javeriana in Bogotá, Colombia 👨🏻‍💻
 * 👨 How old am I? 25yo (if I haven't forgotten to update this 😴)
 * 🤸‍♂️ What do I do to not starve myself: Backend Software Engineer 
